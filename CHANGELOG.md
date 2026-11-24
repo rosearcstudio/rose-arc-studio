@@ -2,6 +2,10 @@
 
 All notable changes to this website. Newest first.
 
+## [0.8.4] — 2026-11-24
+### Changed
+- Korean lash lift / filler: owner's new description, lasts 6–8 weeks, dye optional.
+
 ## [0.8.3] — 2026-11-24
 ### Changed
 - Corrected the brow lamination note (owner): after 3 consecutive sessions, take a 2-month break (replaces "only once every three months") in both lamination items and the FAQ.
