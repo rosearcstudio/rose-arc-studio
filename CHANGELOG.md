@@ -2,6 +2,10 @@
 
 All notable changes to this website. Newest first.
 
+## [0.8.7] — 2026-11-24
+### Changed
+- Stacked logo rebuilt from the owner's Canva PDF (higher-resolution source): `logo-rose-arc-stacked-2.png`.
+
 ## [0.8.6] — 2026-11-24
 ### Fixed
 - Stacked logo rebuilt at 4× resolution with smooth edges (was pixelated on retina screens).
