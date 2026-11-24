@@ -31,7 +31,7 @@ You are working on the Rose Arc Brow & Lash Studio website. Any assistant (Claud
 - WhatsApp 076 797 2839 (wa.me/27767972839); email rosearc.studio@gmail.com; Instagram @rosearc.studio
 - Bookings by WhatsApp for now; Fresha planned later
 - Full price paid on the day of the appointment
-- Cancellation & rescheduling policy (owner's wording, keep its meaning exactly): cancellations within 24 hours are strictly non-refundable, no exceptions; one complimentary reschedule may be allowed at the business's sole discretion in genuine, unforeseen circumstances (a courtesy, not an entitlement); no multiple reschedules, further changes need a new booking and new payment.
+- Cancellations (owner, 2026-11-24): for now only a polite request to cancel or reschedule at least 24 hours in advance so the slot can go to another client. A formal cancellation policy (owner has a draft) will be added later; do not add fees or "non-refundable" wording until the owner says so.
 
 ## Open items (confirm with the owner)
 - Domain rosearc.co.za bought 2026-11-24; still to connect to Cloudflare
