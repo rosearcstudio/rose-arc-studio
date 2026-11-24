@@ -2,6 +2,13 @@
 
 All notable changes to this website. Newest first.
 
+## [0.9.0] — 2026-11-24
+### Added
+- "Behind the brows" pair (process photo + Mia at work) in Results.
+- Three new short videos (brow lamination result, two Korean lash lift close-ups); videos now scroll sideways on phones and sit in a row of five on desktop.
+### Changed
+- Second brow lamination before/after replaced with the owner's newer, front-on photos (brows-3); results grid now two pairs per row.
+
 ## [0.8.9] — 2026-11-24
 ### Changed
 - FAQ "Do I need a patch test?" renamed "What happens before my appointment?" (no patch tests offered yet): Mia sends a consultation message before each appointment (replaces the patch-test wording).
