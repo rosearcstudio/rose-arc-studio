@@ -5,6 +5,7 @@ All notable changes to this website. Newest first.
 ## [0.8.6] — 2026-11-24
 ### Fixed
 - Stacked logo rebuilt at 4× resolution with smooth edges (was pixelated on retina screens).
+- Logo file renamed (logo-rose-arc-stacked.png) so browsers fetch the new version; CSS/JS cache shortened to 1 hour with a version query.
 - Hero logo now sized by height (max 62% of the screen, 26rem) so it never overflows shorter screens.
 
 ## [0.8.5] — 2026-11-24

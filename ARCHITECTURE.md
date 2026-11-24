@@ -15,7 +15,7 @@
 
 ## Hosting
 - Cloudflare Workers with static assets (`wrangler.jsonc`), deployed from GitHub via Workers Builds. Same pattern as the owner's other sites.
-- `_headers` sets security headers (CSP, HSTS, etc.) and long cache times for fingerprint-free assets in `/assets/`. If you replace an asset, give it a new file name so caches refresh.
+- `_headers` sets security headers (CSP, HSTS, etc.) and long cache times for fingerprint-free assets in `/assets/`. If you replace an asset, give it a new file name so caches refresh. CSS and JS are cached for 1 hour and linked with a `?v=YYYYMMDD` query: bump it when you change them.
 - `not_found_handling: 404-page` serves `404.html`.
 
 ## SEO
