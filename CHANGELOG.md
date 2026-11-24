@@ -2,6 +2,10 @@
 
 All notable changes to this website. Newest first.
 
+## [0.8.5] — 2026-11-24
+### Changed
+- Hero logo back to the dark stacked logo without a box (owner preference); hidden on phones as before. Removed the unused beige logo image.
+
 ## [0.8.4] — 2026-11-24
 ### Changed
 - Korean lash lift / filler: owner's new description, lasts 6–8 weeks, dye optional.

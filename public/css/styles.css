@@ -145,14 +145,13 @@ h1, h2, h3 { font-weight: 400; line-height: 1.2; margin: 0 0 1rem; letter-spacin
 .hero__lead { font-size: clamp(1rem, 2.4vw, 1.125rem); color: var(--espresso); max-width: 30rem; margin-bottom: 2rem; }
 .hero__actions { display: flex; flex-wrap: wrap; gap: .75rem; }
 .hero__actions .btn--ghost { border-color: var(--espresso); }
-.hero__logo { display: block; width: min(80%, 17rem); justify-self: center; }
-.hero__logo img { width: 100%; height: auto; box-shadow: 0 20px 50px rgba(20, 20, 20, .12); }
+.hero__logo { display: none; }
 .hero__meta { margin-top: 2.25rem; display: flex; flex-wrap: wrap; gap: .5rem 1.5rem; font-size: .75rem; letter-spacing: .2em; text-transform: uppercase; font-weight: 500; }
 .hero__meta span::before { content: "— "; color: var(--espresso-soft); }
 
 @media (min-width: 52rem) {
   .hero .wrap { grid-template-columns: 1.5fr 1fr; min-height: min(82vh, 46rem); }
-  .hero__logo { width: min(100%, 24rem); justify-self: end; }
+  .hero__logo { display: block; width: min(100%, 17rem); justify-self: end; margin-right: 6%; }
 }
 
 /* Sections ------------------------------------------------------------ */
