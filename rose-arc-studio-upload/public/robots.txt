@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://rosearc.co.za/sitemap.xml
