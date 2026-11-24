@@ -2,6 +2,10 @@
 
 All notable changes to this website. Newest first.
 
+## [0.8.3] — 2026-11-24
+### Changed
+- Corrected the brow lamination note (owner): after 3 consecutive sessions, take a 2-month break (replaces "only once every three months") in both lamination items and the FAQ.
+
 ## [0.8.2] — 2026-11-24
 ### Changed
 - Brow lamination + hybrid dye: owner's new description, results 6–8 weeks, once-every-three-months note. FAQ lamination answer updated to match (was 4–6 weeks).
