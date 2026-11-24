@@ -2,6 +2,10 @@
 
 All notable changes to this website. Newest first.
 
+## [0.8.1] — 2026-11-24
+### Changed
+- Allowed Cloudflare Web Analytics (cookieless visitor stats) in the Content Security Policy; privacy notice updated to mention it.
+
 ## [0.8.0] — 2026-11-24
 ### Added
 - Studio address (22 Schelde Street, Jeffreys Bay) with a Google Maps directions link; opening hours table; both also in the footer and structured data.

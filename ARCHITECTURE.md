@@ -30,4 +30,4 @@
 - Fonts: Montserrat (variable) and Lora Italic (variable), subset to Latin, WOFF. Licence: SIL OFL 1.1.
 
 ## Privacy / POPIA
-No cookies, no analytics, no forms. Contact happens through Instagram/WhatsApp. Privacy notice at `/privacy.html`.
+No cookies, no forms. Cookieless Cloudflare Web Analytics (beacon injected by Cloudflare) is allowed in the CSP (`static.cloudflareinsights.com`, `cloudflareinsights.com`) and disclosed in the privacy notice. Contact happens through Instagram/WhatsApp. Privacy notice at `/privacy.html`.

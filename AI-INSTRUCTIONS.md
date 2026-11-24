@@ -9,7 +9,7 @@ You are working on the Rose Arc Brow & Lash Studio website. Any assistant (Claud
 
 ## Rules for this project
 - Keep it a **static site**: HTML, CSS, vanilla JS. Do not add a framework, bundler, CMS or npm dependencies without the owner's agreement and an entry in ARCHITECTURE.md.
-- **No third-party scripts, trackers or embedded widgets** (Instagram embeds, Google Fonts, analytics) unless the owner asks. They slow the site down and affect POPIA. If added, update the privacy notice and `_headers` CSP.
+- **No third-party scripts, trackers or embedded widgets** (Instagram embeds, Google Fonts, other analytics) unless the owner asks. Only exception: Cloudflare Web Analytics (owner approved 2026-11-24). They slow the site down and affect POPIA. If added, update the privacy notice and `_headers` CSP.
 - Never invent business facts (prices, hours, address, phone numbers, qualifications, reviews). If something is unknown, leave a visible `TBC` and list it in the "Open items" section below.
 - Prices are in **ZAR** and written `R550` (no space, no decimals).
 - Prices appear twice: the visible price list and the JSON-LD `hasOfferCatalog` in `index.html`. Keep them in sync.
@@ -40,7 +40,7 @@ You are working on the Rose Arc Brow & Lash Studio website. Any assistant (Claud
 
 ## Open items (confirm with the owner)
 - Domain rosearc.co.za live on Cloudflare (2026-11-24); www redirects to it via a Cloudflare redirect rule
-- Google Search Console not set up yet; Cloudflare Web Analytics to be switched off (blocked by the CSP anyway)
+- Google Search Console not set up yet. Cloudflare Web Analytics is ON by choice (cookieless; allowed in the CSP; mentioned in the privacy notice).
 - Booking moves to Fresha later: when Mia sends the Fresha link, point the main "Book" buttons and the floating button to it and keep WhatsApp as the second option
 - (Training removed 2026-11-23: Mia does not offer training. Do not add it back.)
 - Google Business Profile
