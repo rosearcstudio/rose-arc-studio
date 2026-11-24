@@ -33,13 +33,14 @@ You are working on the Rose Arc Brow & Lash Studio website. Any assistant (Claud
 - Full price paid on the day of the appointment
 - Cancellations (owner, 2026-11-24): for now only a polite request to cancel or reschedule at least 24 hours in advance so the slot can go to another client. A formal cancellation policy (owner has a draft) will be added later; do not add fees or "non-refundable" wording until the owner says so.
 
+- Address: 22 Schelde Street, Jeffreys Bay. Hours: Mon–Fri 07:30–17:00, Sat 08:00–12:00, Sun closed; by appointment only.
+- Payment on the day: card or cash, card preferred.
+- Brow lamination maintenance (R220): done 2–3 weeks after the initial lamination; maintenance only, for clients between laminations; hydration, nourishment, reshaping; dye optional.
+- Client permission confirmed (2026-11-24) for all before/after photos and videos on the site.
+
 ## Open items (confirm with the owner)
-- Domain rosearc.co.za bought 2026-11-24; still to connect to Cloudflare
-- Studio address (or whether to show only "Jeffreys Bay")
-- Opening days and hours
+- Domain rosearc.co.za live on Cloudflare (2026-11-24); www redirects to it via a Cloudflare redirect rule
+- Google Search Console not set up yet; Cloudflare Web Analytics to be switched off (blocked by the CSP anyway)
 - Booking moves to Fresha later: when Mia sends the Fresha link, point the main "Book" buttons and the floating button to it and keep WhatsApp as the second option
-- Payment methods accepted on the day (cash, card, EFT, SnapScan?)
 - (Training removed 2026-11-23: Mia does not offer training. Do not add it back.)
-- Exact meaning of "Brow lamination maintenance" (description is currently general)
-- Confirm every client shown in the Results photos/videos agreed to be on the website (POPIA)
 - Google Business Profile

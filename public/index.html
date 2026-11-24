@@ -23,42 +23,130 @@
   <link rel="stylesheet" href="css/styles.css">
 
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BeautySalon",
-    "name": "Rose Arc Brow & Lash Studio",
-    "description": "Brow lamination, brow sculpt with hybrid dye and Korean lash lifts by Mia Rose, InLei certified brow and lash artist.",
-    "priceRange": "R120 - R580",
-    "hasOfferCatalog": {
-      "@type": "OfferCatalog",
-      "name": "Price list",
-      "itemListElement": [
-        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Brow lamination + hybrid dye"}, "price": "550", "priceCurrency": "ZAR"},
-        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Brow lamination excluding dye"}, "price": "450", "priceCurrency": "ZAR"},
-        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Brow sculpt + hybrid dye"}, "price": "350", "priceCurrency": "ZAR"},
-        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Brow mapping + clean up"}, "price": "180", "priceCurrency": "ZAR"},
-        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Brow lamination maintenance"}, "price": "220", "priceCurrency": "ZAR"},
-        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Korean lash lift / filler"}, "price": "580", "priceCurrency": "ZAR"},
-        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Lash tint"}, "price": "120", "priceCurrency": "ZAR"}
-      ]
+{
+  "@context": "https://schema.org",
+  "@type": "BeautySalon",
+  "name": "Rose Arc Brow & Lash Studio",
+  "description": "Brow lamination, brow sculpt with hybrid dye and Korean lash lifts by Mia Rose, InLei certified brow and lash artist.",
+  "priceRange": "R120 - R580",
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Price list",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Brow lamination + hybrid dye"
+        },
+        "price": "550",
+        "priceCurrency": "ZAR"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Brow lamination excluding dye"
+        },
+        "price": "450",
+        "priceCurrency": "ZAR"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Brow sculpt + hybrid dye"
+        },
+        "price": "350",
+        "priceCurrency": "ZAR"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Brow mapping + clean up"
+        },
+        "price": "180",
+        "priceCurrency": "ZAR"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Brow lamination maintenance"
+        },
+        "price": "220",
+        "priceCurrency": "ZAR"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Korean lash lift / filler"
+        },
+        "price": "580",
+        "priceCurrency": "ZAR"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Lash tint"
+        },
+        "price": "120",
+        "priceCurrency": "ZAR"
+      }
+    ]
+  },
+  "url": "https://rosearc.co.za/",
+  "image": "https://rosearc.co.za/assets/img/og-image.jpg",
+  "logo": "https://rosearc.co.za/assets/img/logo-stacked-dark.png",
+  "founder": {
+    "@type": "Person",
+    "name": "Mia Rose"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "22 Schelde Street",
+    "addressLocality": "Jeffreys Bay",
+    "addressRegion": "Eastern Cape",
+    "addressCountry": "ZA"
+  },
+  "areaServed": [
+    "Jeffreys Bay",
+    "Humansdorp",
+    "St Francis Bay",
+    "Kouga"
+  ],
+  "currenciesAccepted": "ZAR",
+  "telephone": "+27 76 797 2839",
+  "email": "rosearc.studio@gmail.com",
+  "paymentAccepted": "Card, Cash",
+  "sameAs": [
+    "https://www.instagram.com/rosearc.studio/"
+  ],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "07:30",
+      "closes": "17:00"
     },
-    "url": "https://rosearc.co.za/",
-    "image": "https://rosearc.co.za/assets/img/og-image.jpg",
-    "logo": "https://rosearc.co.za/assets/img/logo-stacked-dark.png",
-    "founder": { "@type": "Person", "name": "Mia Rose" },
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Jeffreys Bay",
-      "addressRegion": "Eastern Cape",
-      "addressCountry": "ZA"
-    },
-    "areaServed": ["Jeffreys Bay", "Humansdorp", "St Francis Bay", "Kouga"],
-    "currenciesAccepted": "ZAR",
-    "telephone": "+27 76 797 2839",
-    "email": "rosearc.studio@gmail.com",
-    "paymentAccepted": "Paid in full on the day of the appointment",
-    "sameAs": ["https://www.instagram.com/rosearc.studio/"]
-  }
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Saturday",
+      "opens": "08:00",
+      "closes": "12:00"
+    }
+  ],
+  "hasMap": "https://www.google.com/maps/search/?api=1&query=22+Schelde+Street%2C+Jeffreys+Bay"
+}
   </script>
 </head>
 <body>
@@ -143,7 +231,8 @@
               </li>
               <li class="menu__item">
                 <div class="menu__row"><h4>Brow lamination maintenance</h4><span class="menu__price">R220</span></div>
-                <p>A maintenance visit to keep your laminated brows looking fresh and in shape.</p>
+                <p>A restorative treatment 2 to 3 weeks after your brow lamination, to keep your brows healthy between lamination appointments. It focuses on hydration, nourishment and reshaping to maintain softness, condition and longevity, while encouraging healthy hair growth. Dye is optional.</p>
+                <p class="menu__fine">Maintenance only: for clients between brow lamination appointments.</p>
               </li>
             </ul>
           </section>
@@ -300,7 +389,7 @@
           </details>
           <details>
             <summary>How do I pay, and what if I need to cancel?</summary>
-            <p>The full price is paid on the day of your appointment. If you need to cancel or reschedule, please let Mia know at least 24 hours in advance so she can offer the spot to another client. <a href="#policy">Booking info</a>.</p>
+            <p>The full price is paid on the day of your appointment, by card or cash (card preferred). If you need to cancel or reschedule, please let Mia know at least 24 hours in advance so she can offer the spot to another client. <a href="#policy">Booking info</a>.</p>
           </details>
           <details>
             <summary>Is a lash lift the same as lash extensions?</summary>
@@ -331,13 +420,17 @@
         <div class="book__grid">
           <div class="book__item">
             <h3>Studio</h3>
-            <p>Jeffreys Bay, Eastern Cape</p>
-            <p class="tbc">Street address shared on booking (TBC)</p>
+            <p>22 Schelde Street<br>Jeffreys Bay, Eastern Cape</p>
+            <p><a href="https://www.google.com/maps/search/?api=1&amp;query=22+Schelde+Street%2C+Jeffreys+Bay" target="_blank" rel="noopener">Get directions</a></p>
           </div>
           <div class="book__item">
             <h3>Hours</h3>
-            <p>By appointment</p>
-            <p class="tbc">Days and times TBC</p>
+            <table class="hours">
+              <tr><th scope="row">Mon – Fri</th><td>07:30 – 17:00</td></tr>
+              <tr><th scope="row">Saturday</th><td>08:00 – 12:00</td></tr>
+              <tr><th scope="row">Sunday</th><td>Closed</td></tr>
+            </table>
+            <p class="hours__note">By appointment only</p>
           </div>
           <div class="book__item">
             <h3>Contact</h3>
@@ -349,7 +442,7 @@
         <div class="policy" id="policy">
           <div class="policy__col">
             <h3>Payment</h3>
-            <p>The full price is paid on the day of your appointment.</p>
+            <p>The full price is paid on the day of your appointment, by card or cash. <strong>Card is preferred.</strong></p>
           </div>
           <div class="policy__col">
             <h3>Cancellations</h3>
@@ -377,8 +470,9 @@
       <div>
         <h2>Visit</h2>
         <ul>
-          <li>Jeffreys Bay</li>
-          <li>Eastern Cape, South Africa</li>
+          <li>22 Schelde Street, Jeffreys Bay</li>
+          <li>Mon – Fri 07:30 – 17:00</li>
+          <li>Sat 08:00 – 12:00 · Sun closed</li>
           <li>By appointment only</li>
         </ul>
       </div>

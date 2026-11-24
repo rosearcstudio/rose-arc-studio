@@ -2,6 +2,12 @@
 
 All notable changes to this website. Newest first.
 
+## [0.8.0] — 2026-11-24
+### Added
+- Studio address (22 Schelde Street, Jeffreys Bay) with a Google Maps directions link; opening hours table; both also in the footer and structured data.
+- Full description of Brow lamination maintenance.
+- Payment methods: card or cash, card preferred.
+
 ## [0.7.2] — 2026-11-24
 ### Changed
 - Replaced the strict cancellation & rescheduling policy with a friendly request to cancel at least 24 hours in advance. Formal policy to be added later.
