@@ -2,6 +2,10 @@
 
 All notable changes to this website. Newest first.
 
+## [0.8.9] — 2026-11-24
+### Changed
+- FAQ "Do I need a patch test?": Mia sends a consultation message before each appointment (replaces the patch-test wording).
+
 ## [0.8.8] — 2026-11-24
 ### Changed
 - Phone number no longer shown as text on the site; WhatsApp buttons and links ("Book on WhatsApp", "WhatsApp us") open the chat instead.
