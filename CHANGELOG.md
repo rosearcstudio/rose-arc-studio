@@ -2,6 +2,11 @@
 
 All notable changes to this website. Newest first.
 
+## [0.8.6] — 2026-11-24
+### Fixed
+- Stacked logo rebuilt at 4× resolution with smooth edges (was pixelated on retina screens).
+- Hero logo now sized by height (max 62% of the screen, 26rem) so it never overflows shorter screens.
+
 ## [0.8.5] — 2026-11-24
 ### Changed
 - Hero logo back to the dark stacked logo without a box (owner preference); hidden on phones as before. Logo re-extracted from the owner's latest logo photo (cleaner edges). Removed the unused beige logo image.

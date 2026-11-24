@@ -151,7 +151,7 @@ h1, h2, h3 { font-weight: 400; line-height: 1.2; margin: 0 0 1rem; letter-spacin
 
 @media (min-width: 52rem) {
   .hero .wrap { grid-template-columns: 1.5fr 1fr; min-height: min(82vh, 46rem); }
-  .hero__logo { display: block; width: min(100%, 17rem); justify-self: end; margin-right: 6%; }
+  .hero__logo { display: block; height: min(62vh, 26rem); width: auto; max-width: 100%; justify-self: end; margin-right: 6%; }
 }
 
 /* Sections ------------------------------------------------------------ */
