@@ -2,6 +2,10 @@
 
 All notable changes to this website. Newest first.
 
+## [0.9.1] — 2026-11-24
+### Fixed
+- Third new video is a lash lift BEFORE (not a result): renamed to lash-lift-before.mp4, relabelled, and placed before the lash lift result.
+
 ## [0.9.0] — 2026-11-24
 ### Added
 - "Behind the brows" pair (process photo + Mia at work) in Results.
