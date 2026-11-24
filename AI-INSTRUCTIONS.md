@@ -28,7 +28,7 @@ You are working on the Rose Arc Brow & Lash Studio website. Any assistant (Claud
 - Fonts: Montserrat (all text), Lora Italic (accents only)
 
 ## Confirmed business details
-- WhatsApp 076 797 2839 (wa.me/27767972839); email rosearc.studio@gmail.com; Instagram @rosearc.studio
+- WhatsApp 076 797 2839 (wa.me/27767972839) — owner does NOT want the number shown as text on the site (2026-11-24): use "Book on WhatsApp" / "WhatsApp us" buttons and links only; email rosearc.studio@gmail.com; Instagram @rosearc.studio
 - Bookings by WhatsApp for now; Fresha planned later
 - Full price paid on the day of the appointment
 - Cancellations (owner, 2026-11-24): for now only a polite request to cancel or reschedule at least 24 hours in advance so the slot can go to another client. A formal cancellation policy (owner has a draft) will be added later; do not add fees or "non-refundable" wording until the owner says so.

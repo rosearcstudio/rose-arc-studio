@@ -2,6 +2,10 @@
 
 All notable changes to this website. Newest first.
 
+## [0.8.8] — 2026-11-24
+### Changed
+- Phone number no longer shown as text on the site; WhatsApp buttons and links ("Book on WhatsApp", "WhatsApp us") open the chat instead.
+
 ## [0.8.7] — 2026-11-24
 ### Changed
 - Stacked logo rebuilt from the owner's Canva PDF (higher-resolution source): `logo-rose-arc-stacked-2.png`.
