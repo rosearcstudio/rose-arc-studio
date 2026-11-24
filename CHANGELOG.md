@@ -2,6 +2,10 @@
 
 All notable changes to this website. Newest first.
 
+## [0.9.2] — 2026-11-24
+### Changed
+- "Meet your artist" now uses the owner's portrait of Mia (mia-rose-portrait.*) instead of the at-work photo.
+
 ## [0.9.1] — 2026-11-24
 ### Fixed
 - Third new video is a lash lift BEFORE (not a result): renamed to lash-lift-before.mp4, relabelled, and placed before the lash lift result.
