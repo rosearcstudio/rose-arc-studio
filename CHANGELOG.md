@@ -2,6 +2,10 @@
 
 All notable changes to this website. Newest first.
 
+## [0.9.4] — 2026-11-24
+### Changed
+- Booking section: "Message on Instagram" button replaced with "Email us" (owner doesn't want bookings via Instagram). Instagram stays as a follow link.
+
 ## [0.9.3] — 2026-11-24
 ### Changed (SEO)
 - Title now "Brow Lamination & Lash Lifts in Jeffreys Bay | Rose Arc"; meta and Open Graph descriptions mention St Francis Bay.
