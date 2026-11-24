@@ -44,8 +44,10 @@ Primary: Jeffreys Bay. Also target St Francis Bay, Cape St Francis, Humansdorp a
 ## Open items (confirm with the owner)
 - Domain rosearc.co.za live on Cloudflare (2026-11-24); www redirects to it via a Cloudflare redirect rule
 - Google Search Console set up and sitemap submitted (2026-11-24). Google Business Profile verified (category Beauty salon). Cloudflare Web Analytics is ON by choice (cookieless; allowed in the CSP; mentioned in the privacy notice).
-- Booking moves to Fresha later: when Mia sends the Fresha link, point the main "Book" buttons and the floating button to it and keep WhatsApp as the second option
+- Fresha: on hold (2026-11-24). WhatsApp stays the booking method. If Fresha is added later, point the main "Book" buttons and the floating button to it and keep WhatsApp as the second option.
+- Payments: owner is setting up a Yoco card machine; site already says card or cash, card preferred.
 - (Training removed 2026-11-23: Mia does not offer training. Do not add it back.)
-- Lash tint description and any lash pre-treatment advice (owner to send)
-- Formal cancellation policy (owner has a draft; add when she says)
+- Lash tint description: current wording approved by owner (2026-11-24).
+- Formal cancellation policy: deferred until the studio is established and has enough bookings (owner, 2026-11-24). Keep the friendly 24-hour request until then.
 - Vector logo (SVG/PDF from the designer) if available
+- Owner is collecting Google reviews.
