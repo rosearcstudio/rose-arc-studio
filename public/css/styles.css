@@ -340,3 +340,9 @@ h1, h2, h3 { font-weight: 400; line-height: 1.2; margin: 0 0 1rem; letter-spacin
 .hours td { padding: .15rem 0; white-space: nowrap; font-variant-numeric: tabular-nums; }
 .hours__note { font-size: .85rem; color: var(--espresso-soft); }
 .menu__fine { margin-top: .4rem !important; font-size: .85rem !important; font-style: italic; }
+.menu__item .menu__lead { color: var(--espresso); font-weight: 500; margin-bottom: .35rem; }
+.menu__item .menu__meta { margin-top: .5rem; font-size: .78rem; font-weight: 600; letter-spacing: .14em; text-transform: uppercase; color: var(--oak-deep); }
+.menu__item p + p { margin-top: .35rem; }
+.menu__note ul { margin: .5rem 0 0; padding-left: 1.1rem; color: var(--espresso-soft); font-size: .92rem; display: grid; gap: .35rem; }
+.menu__note strong { color: var(--espresso); }
+.menu__note p + ul { margin-top: .5rem; }

@@ -2,6 +2,11 @@
 
 All notable changes to this website. Newest first.
 
+## [0.8.2] — 2026-11-24
+### Changed
+- Brow lamination + hybrid dye: owner's new description, results 6–8 weeks, once-every-three-months note. FAQ lamination answer updated to match (was 4–6 weeks).
+- Added pre-treatment advice for brow appointments (under The Brow Edit and in the FAQ).
+
 ## [0.8.1] — 2026-11-24
 ### Changed
 - Allowed Cloudflare Web Analytics (cookieless visitor stats) in the Content Security Policy; privacy notice updated to mention it.
