@@ -4,7 +4,7 @@ All notable changes to this website. Newest first.
 
 ## [0.8.9] — 2026-11-24
 ### Changed
-- FAQ "Do I need a patch test?": Mia sends a consultation message before each appointment (replaces the patch-test wording).
+- FAQ "Do I need a patch test?" renamed "What happens before my appointment?" (no patch tests offered yet): Mia sends a consultation message before each appointment (replaces the patch-test wording).
 
 ## [0.8.8] — 2026-11-24
 ### Changed
