@@ -7,6 +7,9 @@ You are working on the Rose Arc Brow & Lash Studio website. Any assistant (Claud
 2. `ARCHITECTURE.md` — how the site is built and why.
 3. `CHANGELOG.md` — what has changed recently.
 
+## Local SEO focus
+Primary: Jeffreys Bay. Also target St Francis Bay, Cape St Francis, Humansdorp and the Kouga area (owner request 2026-11-24): mention them naturally (hero lead, studio box, FAQ, schema areaServed). Do not create thin doorway pages per town.
+
 ## Rules for this project
 - Keep it a **static site**: HTML, CSS, vanilla JS. Do not add a framework, bundler, CMS or npm dependencies without the owner's agreement and an entry in ARCHITECTURE.md.
 - **No third-party scripts, trackers or embedded widgets** (Instagram embeds, Google Fonts, other analytics) unless the owner asks. Only exception: Cloudflare Web Analytics (owner approved 2026-11-24). They slow the site down and affect POPIA. If added, update the privacy notice and `_headers` CSP.
@@ -40,7 +43,9 @@ You are working on the Rose Arc Brow & Lash Studio website. Any assistant (Claud
 
 ## Open items (confirm with the owner)
 - Domain rosearc.co.za live on Cloudflare (2026-11-24); www redirects to it via a Cloudflare redirect rule
-- Google Search Console not set up yet. Cloudflare Web Analytics is ON by choice (cookieless; allowed in the CSP; mentioned in the privacy notice).
+- Google Search Console set up and sitemap submitted (2026-11-24). Google Business Profile verified (category Beauty salon). Cloudflare Web Analytics is ON by choice (cookieless; allowed in the CSP; mentioned in the privacy notice).
 - Booking moves to Fresha later: when Mia sends the Fresha link, point the main "Book" buttons and the floating button to it and keep WhatsApp as the second option
 - (Training removed 2026-11-23: Mia does not offer training. Do not add it back.)
-- Google Business Profile
+- Lash tint description and any lash pre-treatment advice (owner to send)
+- Formal cancellation policy (owner has a draft; add when she says)
+- Vector logo (SVG/PDF from the designer) if available

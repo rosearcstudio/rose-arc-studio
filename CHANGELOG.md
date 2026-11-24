@@ -2,6 +2,12 @@
 
 All notable changes to this website. Newest first.
 
+## [0.9.3] — 2026-11-24
+### Changed (SEO)
+- Title now "Brow Lamination & Lash Lifts in Jeffreys Bay | Rose Arc"; meta and Open Graph descriptions mention St Francis Bay.
+- St Francis Bay, Cape St Francis, Humansdorp and Kouga added to the hero text, studio box, a new FAQ and structured data (areaServed).
+- Descriptive alt text on before/after photos; better 404 description; sitemap lastmod updated.
+
 ## [0.9.2] — 2026-11-24
 ### Changed
 - "Meet your artist" now uses the owner's portrait of Mia (mia-rose-portrait.*) instead of the at-work photo.
