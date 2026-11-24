@@ -4,7 +4,7 @@ All notable changes to this website. Newest first.
 
 ## [0.8.5] — 2026-11-24
 ### Changed
-- Hero logo back to the dark stacked logo without a box (owner preference); hidden on phones as before. Removed the unused beige logo image.
+- Hero logo back to the dark stacked logo without a box (owner preference); hidden on phones as before. Logo re-extracted from the owner's latest logo photo (cleaner edges). Removed the unused beige logo image.
 
 ## [0.8.4] — 2026-11-24
 ### Changed
