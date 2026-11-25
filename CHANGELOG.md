@@ -2,6 +2,10 @@
 
 All notable changes to this website. Newest first.
 
+## [0.9.5] — 2026-11-24
+### Added
+- IndexNow key file so the site can notify Bing of updates without an account.
+
 ## [0.9.4] — 2026-11-24
 ### Changed
 - Booking section: "Message on Instagram" button replaced with "Email us" (owner doesn't want bookings via Instagram). Instagram stays as a follow link.

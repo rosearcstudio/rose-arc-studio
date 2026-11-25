@@ -29,5 +29,10 @@
 - `assets/video/*.mp4`: owner's phone videos re-encoded to 432px wide H.264, no audio, CRF 30 (~170 KB and ~525 KB), with JPEG posters. `preload="none"`; `js/main.js` plays them only while on screen.
 - Fonts: Montserrat (variable) and Lora Italic (variable), subset to Latin, WOFF. Licence: SIL OFL 1.1.
 
+## IndexNow (Bing, Yandex, etc.)
+Key file: `public/be09b852ad739c320c1fb028b0bec850.txt` (contains the key). To tell Bing a page changed, open:
+`https://www.bing.com/indexnow?url=https://rosearc.co.za/&key=be09b852ad739c320c1fb028b0bec850`
+Keep the file in place; it proves ownership.
+
 ## Privacy / POPIA
 No cookies, no forms. Cookieless Cloudflare Web Analytics (beacon injected by Cloudflare) is allowed in the CSP (`static.cloudflareinsights.com`, `cloudflareinsights.com`) and disclosed in the privacy notice. Contact happens through Instagram/WhatsApp. Privacy notice at `/privacy.html`.
